@@ -1,0 +1,88 @@
+import { createRequire } from 'module'
+const require = createRequire(import.meta.url)
+const version = require("baileys/package.json").version 
+global.require = require
+global.language = "id"
+global.nomerOwner = "6289688206739"// Ganti sesuka luh
+global.nomerOwner2 = "6289688206739"// Ganti sesuka luh
+global.runWith = "Replit"// Ganti sesuka luh
+global.ownerName = "W I L Y - K U N 👤"// Ganti sesuka luh
+global.fakeUrl = 'https://wa.me/6289688206739'// Ganti sesuka luh
+global.textT = 'W I L Y - K U N 👤'// Ganti sesuka luh
+global.botName = "WILY°᭄ᴮᵒᵗㅤㅤㅤㅤ"// Ganti sesuka luh
+global.sessionName = "session"
+global.setmenu = "document"
+global.docType = ""
+global.Qoted = "m"
+global.baileysMd = true
+global.antiSpam = true
+global.fake = botName
+global.autoBio = true
+global.Console = false
+global.limitCount = 100 // Ganti sesuka luh
+global.gcounti = { 'prem' : 60, 'user' : 20 } // Ganti sesuka luh
+global.monayawal = 1000 // Ganti sesuka luh
+global.rpg = { darahawal : 100, besiawal : 1, goldawal : 1,
+emeraldawal : 1, umpanawal : 1, potionawal : 5 } // Ganti sesuka luh
+global.copyright = `© WILY°᭄ᴮᵒᵗ` // Ganti sesuka luh
+global.baileysVersion = `Baileys Version ${version}`
+global.fake1 = "WILY°᭄ᴮᵒᵗ" // Ganti sesuka luh
+global.packName = "B O T - H E N 🔥" // Ganti sesuka luh
+global.authorName = "W I L Y - K U N 👤" // Ganti sesuka luh
+global.replyType = "web" // Set di menu setreply 
+global.setwelcome = "type11"
+global.autoblockcmd = false
+global.autoReport = true
+global.autoLevel = true
+global.multi = true
+global.autoSticker = true
+global.Intervalmsg = 1000 // Detik
+global.app = '•' // Ganti sesuka luh
+global.apz = '⎘' // Ganti sesuka luh
+global.teksMenu = ''
+global.Dana = '6289688206739'// Ganti sesuka luh
+global.Ovo = '6289688206739'// Ganti sesuka luh
+global.Gopay = '6289688206739'// Ganti sesuka luh
+global.Pulsa = '6289688206739'// Ganti sesuka luh
+global.Shopee = '6289688206739'// Ganti sesuka luh
+//global.On = "On"
+//global.Off ="Off"
+//global.autoblockcmd = false
+//global.autoBio = true
+//global.autorespon = false
+//global.multi = true
+//global.prefa = "!"
+//global.gamewaktu = 60
+//global.anonymousImg = "https://telegra.ph/file/1446ae19e40a769e94248.jpg"
+//global.botImg = "https://telegra.ph/file/67f456acc78d2252dde2f.jpg"
+//global.fakegifImg ="https://telegra.ph/file/b4ec766d46519110784c3.jpg"
+//global.quotedImg = "https://telegra.ph/file/037f85737e981c7158d3d.jpg"
+//global.replyImg = "https://telegra.ph/file/861077ba89491ed8cc6f1.jpg"
+//global.thumbImg ="https://telegra.ph/file/2b5e7da186256332c9dc8.jpg"
+//global.thumbnaildokumenImg = "https://telegra.ph/file/67f88bf1209262d81ffe8.jpg"
+//global.videoMp4 = "https://telegra.ph/file/fcc8a8d9ea62088fb9f4b.mp4"
+//global.webImg = "https://telegra.ph/file/f7da244c6cbf47f55f59b.jpg"
+global.limitUrl = 'https://telegra.ph/file/7b79ea17d969f6436d618.jpg'// Jangan diubah
+global.gameUrl = 'https://telegra.ph/file/d80b325a45ae4457ae98b.jpg'// Jangan diubah
+global.ownerUrl = 'https://telegra.ph/file/de2281d5938475b8f7584.jpg'// Jangan diubah
+global.tutorUrl = 'https://telegra.ph/file/77fd2dfafba86838c4a19.mp4'// Jangan diubah
+//Gambar
+global.qrUrl = 'https://telegra.ph/file/6a177cbd8fc7b793dbb25.jpg'// Ganti sesuka luh
+global.linkUrl = 'https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT' // Ganti sesuka luh
+global.allmenuUrl = 'https://telegra.ph/file/ad14f13ba41b4e3979ca9.jpg'// Ganti sesuka luh
+global.imgAsupan = 'https://telegra.ph/file/c289ecebec94d4ff44c53.jpg'// Ganti sesuka luh
+global.imgNsfw = 'https://telegra.ph/file/039975f6ce595e9b6794c.jpg'// Ganti sesuka luh
+//Apikey 
+global.apikey = 'AryaXyz'// Api lolhuman , Api lu ? free buat luh
+global.apikeys = ''// https://api.zeeoneofc.my.id/ Api zeeone ofc daftar disana
+global.apiflash = '9b9e84dfc18746d4a19d3afe109e9ea4' // Api free
+global.apibg = ''// Api nobg , Daftar di https://removebg.com
+global.apiAi = ''//daftar di https://platform.openai.com/account/ open ai
+global.fileStackApi = ""// Daftar di https://filestack.com
+
+
+
+
+
+
+// Ganti nya yang bener ye jangan sampe salah nanti error
